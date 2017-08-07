@@ -9,4 +9,7 @@
 6. Started working on feature/TASK-4
 6.1. Initial commit
 6.2. Second commit
-7. Just some commit on MASTER branch
+7. Started working on feature/TASK-7
+7.1. Another commit on feature/TASK-7
+7.2. Added some more on feature/TASK-7
+7.3. Added another line with F/T7
